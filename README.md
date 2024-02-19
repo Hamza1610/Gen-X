@@ -1,46 +1,4 @@
-<style>
-body {
-  font-family: sans-serif;
-  margin: 20px;
-}
 
-h1, h2, h3 {
-  font-weight: bold;
-  margin-bottom: 10px;
-}
-
-h1 {
-  font-size: 2em;
-}
-
-h2 {
-  font-size: 1.5em;
-}
-
-h3 {
-  font-size: 1.2em;
-}
-
-ul, ol {
-  list-style: disc;
-  margin-left: 20px;
-}
-
-li {
-  margin-bottom: 5px;
-}
-
-.important {
-  color: red;
-  font-weight: bold;
-}
-
-.code {
-  background-color: #eee;
-  padding: 10px;
-  border-radius: 5px;
-}
-</style>
 # Gen-X: Gemini Executor - AI-powered Shell Command Execution
 
 ## **Unleash the Power of Voice with Gen-X!**

@@ -1,4 +1,4 @@
-from engine import Xyrox
+from xyrox_engine.engine import Xyrox
 from google_config import Gemini
 
 

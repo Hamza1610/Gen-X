@@ -1,4 +1,4 @@
-from pygame_player import Player
+from xyrox_engine.libs.player import Player
 
 import io
 from gtts import gTTS
@@ -7,12 +7,10 @@ import speech_recognition as sr
 player = Player()
 
 class Xyrox():
-
     """
     _summary_: AI engine for TTS and STT
 
     """
-
     @staticmethod 
     def welcome_speech():
 
